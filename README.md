@@ -23,7 +23,7 @@ Unity Engine에서 특정 태그, 컴포넌트 등 특성으로 상속관계를 
 
 # 사용 예시
   ## Tool -> InheritanceEditor 클릭
-![ToolBar](https://github.com/user-attachments/assets/e56b587a-80f0-4eca-b339-cf12248130d0)
+![ToolBar2](https://github.com/user-attachments/assets/e6b0992c-501f-490b-a940-a514a5123b4f)
 ![editor](https://github.com/user-attachments/assets/820089c8-c9cf-48c1-b77a-730913ae7acb)
  
   ## Parent Object(부모) : 부모가 될 오브젝트 선택
