@@ -2,7 +2,7 @@
 Unity Engine에서 특정 태그, 컴포넌트 등 특성으로 상속관계를 쉽게 지정하는 커스텀 에디터
 
 # 패키지 다운로드 링크
----추가예정---
+https://drive.google.com/file/d/1buOOMtjyE5hp1ioAiS9-7awTNe__Hqx2/view?usp=drive_link
 
 # 개발 환경
 - Unity Engine 2023.2.16f1
