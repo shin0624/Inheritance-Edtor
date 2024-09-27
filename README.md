@@ -42,8 +42,8 @@ https://drive.google.com/file/d/1d9O2hfBgHAFYc8q9Na02tbALlXJ2rcZp/view?usp=shari
   
   ## Inheritance(상속 수행) : 클릭 시 선택한 부모 오브젝트에게 자식 오브젝트가 상속됨.
   ![상속시](https://github.com/user-attachments/assets/0c373b29-0999-4f93-a60c-f2362ded3732)
-  All Undo 클릭시 상속된 오브젝트 전체 상속 취소
-  상속 결과 창에서 오브젝트 별 상속 취소도 가능.
+    1. All Undo 클릭시 상속된 오브젝트 전체 상속 취소
+    2. 상속 결과 창에서 오브젝트 별 상속 취소도 가능.
 
   ## 자식 오브젝트 버튼화 : 결과 목록 내 자식을 선택하면 하이어라키에서 해당 자식이 선택됨
   ![버튼화](https://github.com/user-attachments/assets/577bbbed-fa7a-49b4-9bf4-7d25660ad9a1)
